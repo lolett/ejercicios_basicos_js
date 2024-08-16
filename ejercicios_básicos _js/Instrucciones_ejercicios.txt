@@ -1,0 +1,27 @@
+Creación de repositorio
+Para entregar estos ejercicios crearemos un repositorio llmado "ejercicios_basicos_js" en nuestra cuenta de GitHub y empezaremos a trabajar en él.
+
+Ficheros
+En esa carpeta crearemos un fichero por cada ejercicio. Por ejemplo, si es el ejercicio 1 lo podremos llamar ejercicio1.js.
+Si un ejercicio tiene varios puntos podremos hacer comentarios para diferenciar las tareas que nos propone el ejercicio.
+
+//1.1
+const x = 10;
+
+//1.2
+const y = x + 10;
+
+...
+
+
+Comprobación
+Estos ejercicios los podéis corregir en vuestro equipo comprobando mediante console.log si el resultado es el solicitado por el enunciado.
+Para ello recordad ejecutar los ficheros con node.
+Por ejemplo, si queremos comprobar el funcionamiento del primer ejercicio podremos indicar en la terminal:
+
+node ejercicio1.js
+
+
+
+Si tenéis cualquier duda podéis consultar y compartirlas en el foro. Un mismo ejercicio no tiene por qué tener una sola solución.
+Una vez los completéis todos los podéis enviar a desarrollowebfp@thepower.education con el asunto "Ejercicios Básicos JS - Vuestro Nombre".
