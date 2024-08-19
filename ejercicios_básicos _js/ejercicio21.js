@@ -16,7 +16,7 @@ for (let i = 0; i < users.length; i++) {
   const user = users[i]
   if (user.years < 18) {
     usersMenoresEdad.push(user.name)
-  } else if (user.years > 18) {
+  } else if (user.years >= 18) {
     usersMayoresEdad.push(user.name)
   }
 }
