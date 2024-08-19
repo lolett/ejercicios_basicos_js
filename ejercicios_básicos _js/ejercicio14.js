@@ -24,7 +24,7 @@ function repeatCounter(list) {
   // Inicio loop
   for (let i = 0; i < list.length; i++) {
     const action = list[i]
-    // check si el elemento si ya existe, si true incrementa su valor en uno cada vez que lo encuentra en el array
+    // check si el elemento ya existe, si true incrementa su valor en uno cada vez que lo encuentra en el array
     if (actions[action]) {
       actions[action]++
       //si no genera un key:value pair inicial con valor de 1
