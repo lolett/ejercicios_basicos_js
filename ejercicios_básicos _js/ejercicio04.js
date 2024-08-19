@@ -16,7 +16,7 @@ aldeanos[0] = 'Bambina'
 aldeanos.reverse()
 
 //4.5 - Cambia a "Narciso" por "Canela" haciendo uso de un método de array.
-aldeanos.splice(4, 1, 'Candela')
+aldeanos.splice(4, 1, 'Canela')
 
 /*4.6 - Imprime por consola el último elemento de este array sin atacar a la posición explicitamente
 Pista: puedes usar el método length con algo más para ello.*/
