@@ -15,6 +15,6 @@ for (let i = 0; i < products.length; i++) {
   const product = products[i]
   const words = product.split(' ')
   if (words.includes('Camiseta')) {
-    console.log(words)
+    console.log(product)
   }
 }
