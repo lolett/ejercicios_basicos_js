@@ -12,7 +12,7 @@ const placesToTravel = [
   { id: 59, name: 'Madagascar' }
 ]
 
-let filterPlaces = []
+const filterPlaces = []
 
 for (let i = 0; i < placesToTravel.length; i++) {
   const place = placesToTravel[i]
