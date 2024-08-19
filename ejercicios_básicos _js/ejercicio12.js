@@ -17,7 +17,7 @@ const duplicates = [
   'soda'
 ]
 
-let uniques = []
+const uniques = []
 
 function removeDuplicates(list) {
   for (let i = 0; i < list.length; i++) {
